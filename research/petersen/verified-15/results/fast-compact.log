@@ -1,0 +1,1 @@
+'PetersenSigned.Compact.reject_fast' depends on axioms: [propext, Classical.choice, Quot.sound]

@@ -1,0 +1,6 @@
+'PetersenSigned.circuit_to_signed' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PetersenSigned.lower_of_two_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PetersenSigned.restrict_trace' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PetersenSigned.reject_sample' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PetersenSigned.Compact.compact_plan' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PetersenSigned.Compact.reject' depends on axioms: [propext, Classical.choice, Quot.sound]

@@ -1,0 +1,1 @@
+'PetersenSigned.SixOpposite.numeric2' depends on axioms: [propext, Classical.choice, Quot.sound]
