@@ -12,7 +12,9 @@ The assigned statement excludes every ordinary circuit of at most 19 gates. The 
 
 ## Inspect and reproduce
 
-The two lower-bound theorems are in [AssemblyComplete.lean](verified-15/AssemblyComplete.lean). [Witnesses.lean](Witnesses.lean) contains the 20-gate circuit and the 16-gate witness after deleting one vertex.
+The [standalone Lean proof](PetersenFifteen.lean) contains both 15-gate theorems in one file. The [verification logs](verification/) record its kernel check and fresh computational replays for both lower-bound searches.
+
+The modular versions of the two lower-bound theorems are in [AssemblyComplete.lean](verified-15/AssemblyComplete.lean). [Witnesses.lean](Witnesses.lean) contains the 20-gate circuit and the 16-gate witness after deleting one vertex.
 
 From the pinned repository’s `lean` directory with Mathlib and the project definitions built, run `lake env python3 ../research/petersen/verified-15/check15.py` to replay the formal lower bound. The proof uses the definitions at upstream commit `4bb00a9073f9ee99966fde15f28f096b8c828981`.
 

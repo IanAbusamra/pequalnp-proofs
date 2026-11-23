@@ -1,0 +1,214 @@
+Verified the 16-gate monotone witness on all 1024 assignments.
+Binary budget 6, vertices 31, full cube, found 0, states 101, signals 112, seconds 0.000187375
+CLASS 31 12 7 7
+Binary budget 4, vertices 47, full cube, found 0, states 1, signals 12, seconds 6.375e-06
+CLASS 47 60 5 5
+Binary budget 4, vertices 55, full cube, found 0, states 2, signals 13, seconds 1.1667e-05
+CLASS 55 60 5 5
+Binary budget 3, vertices 62, full cube, found 0, states 1, signals 12, seconds 6.625e-06
+CLASS 62 60 4 4
+Binary budget 7, vertices 63, full cube, found 0, states 259, signals 211, seconds 0.000623375
+CLASS 63 60 8 8
+CLASS 109 30 3 3
+Binary budget 6, vertices 111, full cube, found 0, states 25, signals 32, seconds 5.7458e-05
+CLASS 111 60 7 7
+CLASS 117 30 2 2
+Binary budget 5, vertices 119, full cube, found 0, states 4, signals 14, seconds 1.5208e-05
+CLASS 119 15 6 6
+Binary budget 4, vertices 125, full cube, found 0, states 1, signals 12, seconds 5.792e-06
+CLASS 125 60 5 5
+Binary budget 8, vertices 127, full cube, found 0, states 532, signals 344, seconds 0.00181837
+CLASS 127 60 9 9
+Binary budget 7, vertices 189, full cube, found 0, states 157, signals 168, seconds 0.000431292
+CLASS 189 10 8 8
+Binary budget 10, vertices 191, full cube, found 0, states 108172, signals 28844, seconds 0.469828
+CLASS 191 30 11 11
+CLASS 250 5 5 5
+Binary budget 7, vertices 251, full cube, found 0, states 19, signals 30, seconds 7.4459e-05
+CLASS 251 20 8 8
+Binary budget 7, vertices 253, full cube, found 0, states 157, signals 168, seconds 0.0004415
+CLASS 253 10 8 8
+budget 12 vertices 1020 mode free first -1 -1 -1 found 0 states 14127 wires 2506 seconds 0.0748916
+budget 11 vertices 1018 mode free first -1 -1 -1 found 0 states 0 wires 12 seconds 0.00521583
+1020 (2, 3, 0) 8 budget 13 vertices 1020 mode free first 2 3 0 found 0 states 1 wires 13 seconds 0.00480987
+1020 (2, 3, 1) 8 budget 13 vertices 1020 mode free first 2 3 1 found 0 states 199002 wires 27008 seconds 0.824796
+1020 (2, 3, 2) 8 budget 13 vertices 1020 mode free first 2 3 2 found 0 states 1 wires 13 seconds 0.004775
+1020 (2, 3, 3) 8 budget 13 vertices 1020 mode free first 2 3 3 found 0 states 231275 wires 31544 seconds 0.899401
+1020 (2, 4, 0) 4 budget 13 vertices 1020 mode free first 2 4 0 found 0 states 1 wires 13 seconds 0.00498625
+1020 (2, 4, 1) 8 budget 13 vertices 1020 mode free first 2 4 1 found 0 states 1 wires 13 seconds 0.00478233
+1020 (2, 4, 3) 4 budget 13 vertices 1020 mode free first 2 4 3 found 1 states 16229 wires 4658 seconds 0.0725833
+1020 (2, 6, 0) 2 budget 13 vertices 1020 mode free first 2 6 0 found 0 states 1 wires 13 seconds 0.00478333
+1020 (2, 6, 1) 4 budget 13 vertices 1020 mode free first 2 6 1 found 0 states 1 wires 13 seconds 0.00501129
+1020 (2, 6, 3) 2 budget 13 vertices 1020 mode free first 2 6 3 found 0 states 212318 wires 39892 seconds 0.857558
+1020 (2, 8, 0) 8 budget 13 vertices 1020 mode free first 2 8 0 found 0 states 1 wires 13 seconds 0.0047525
+1020 (2, 8, 1) 8 budget 13 vertices 1020 mode free first 2 8 1 found 0 states 113904 wires 22506 seconds 0.49628
+1020 (2, 8, 2) 8 budget 13 vertices 1020 mode free first 2 8 2 found 0 states 1 wires 13 seconds 0.00476775
+1020 (2, 8, 3) 8 budget 13 vertices 1020 mode free first 2 8 3 found 1 states 39992 wires 8897 seconds 0.161389
+1020 (3, 7, 0) 4 budget 13 vertices 1020 mode free first 3 7 0 found 0 states 84609 wires 14190 seconds 0.40862
+1020 (3, 7, 1) 8 budget 13 vertices 1020 mode free first 3 7 1 found 0 states 228759 wires 25376 seconds 0.952021
+1020 (3, 7, 3) 4 budget 13 vertices 1020 mode free first 3 7 3 found 0 states 860409 wires 31983 seconds 3.22514
+1020 (3, 8, 0) 2 budget 13 vertices 1020 mode free first 3 8 0 found 0 states 199725 wires 13879 seconds 0.915567
+1020 (3, 8, 1) 4 budget 13 vertices 1020 mode free first 3 8 1 found 0 states 185856 wires 24482 seconds 0.75996
+1020 (3, 8, 3) 2 budget 13 vertices 1020 mode free first 3 8 3 found 0 states 519582 wires 31977 seconds 1.93677
+1018 (1, 3, 0) 4 budget 12 vertices 1018 mode free first 1 3 0 found 0 states 1 wires 12 seconds 0.00536779
+1018 (1, 3, 1) 4 budget 12 vertices 1018 mode free first 1 3 1 found 0 states 1 wires 13 seconds 0.00540483
+1018 (1, 3, 2) 4 budget 12 vertices 1018 mode free first 1 3 2 found 0 states 1 wires 12 seconds 0.00521062
+1018 (1, 3, 3) 4 budget 12 vertices 1018 mode free first 1 3 3 found 0 states 1 wires 13 seconds 0.00540733
+1018 (1, 6, 0) 1 budget 12 vertices 1018 mode free first 1 6 0 found 0 states 1 wires 12 seconds 0.00538013
+1018 (1, 6, 1) 1 budget 12 vertices 1018 mode free first 1 6 1 found 0 states 45235 wires 11537 seconds 0.192037
+1018 (1, 6, 2) 1 budget 12 vertices 1018 mode free first 1 6 2 found 0 states 1 wires 12 seconds 0.00521746
+1018 (1, 6, 3) 1 budget 12 vertices 1018 mode free first 1 6 3 found 0 states 1 wires 13 seconds 0.00518217
+1018 (1, 8, 0) 2 budget 12 vertices 1018 mode free first 1 8 0 found 0 states 1 wires 12 seconds 0.00521438
+1018 (1, 8, 1) 2 budget 12 vertices 1018 mode free first 1 8 1 found 0 states 1 wires 13 seconds 0.00518975
+1018 (1, 8, 2) 2 budget 12 vertices 1018 mode free first 1 8 2 found 0 states 1 wires 12 seconds 0.005258
+1018 (1, 8, 3) 2 budget 12 vertices 1018 mode free first 1 8 3 found 1 states 19252 wires 5280 seconds 0.0755903
+1018 (3, 4, 0) 2 budget 12 vertices 1018 mode free first 3 4 0 found 0 states 15711 wires 2135 seconds 0.0737007
+1018 (3, 4, 1) 4 budget 12 vertices 1018 mode free first 3 4 1 found 0 states 6235 wires 2653 seconds 0.0338011
+1018 (3, 4, 3) 2 budget 12 vertices 1018 mode free first 3 4 3 found 0 states 9708 wires 4421 seconds 0.0435083
+1018 (3, 5, 0) 2 budget 12 vertices 1018 mode free first 3 5 0 found 0 states 2038 wires 612 seconds 0.0145693
+1018 (3, 5, 1) 4 budget 12 vertices 1018 mode free first 3 5 1 found 0 states 4204 wires 1597 seconds 0.0246633
+1018 (3, 5, 3) 2 budget 12 vertices 1018 mode free first 3 5 3 found 1 states 1945 wires 712 seconds 0.013332
+1018 (3, 6, 0) 4 budget 12 vertices 1018 mode free first 3 6 0 found 0 states 1712 wires 632 seconds 0.0144509
+1018 (3, 6, 1) 4 budget 12 vertices 1018 mode free first 3 6 1 found 0 states 11141 wires 3607 seconds 0.0501994
+1018 (3, 6, 2) 4 budget 12 vertices 1018 mode free first 3 6 2 found 0 states 5073 wires 1696 seconds 0.0274878
+1018 (3, 6, 3) 4 budget 12 vertices 1018 mode free first 3 6 3 found 1 states 3709 wires 1189 seconds 0.0186381
+1018 (3, 7, 0) 2 budget 12 vertices 1018 mode free first 3 7 0 found 0 states 976 wires 382 seconds 0.0109635
+1018 (3, 7, 1) 4 budget 12 vertices 1018 mode free first 3 7 1 found 0 states 4923 wires 1555 seconds 0.0268408
+1018 (3, 7, 3) 2 budget 12 vertices 1018 mode free first 3 7 3 found 0 states 15895 wires 5724 seconds 0.0657235
+1018 (3, 8, 0) 4 budget 12 vertices 1018 mode free first 3 8 0 found 0 states 12808 wires 1695 seconds 0.059241
+1018 (3, 8, 1) 4 budget 12 vertices 1018 mode free first 3 8 1 found 0 states 18747 wires 5311 seconds 0.077658
+1018 (3, 8, 2) 4 budget 12 vertices 1018 mode free first 3 8 2 found 0 states 5268 wires 2061 seconds 0.0299109
+1018 (3, 8, 3) 4 budget 12 vertices 1018 mode free first 3 8 3 found 0 states 17587 wires 5784 seconds 0.073345
+1018 (3, 9, 0) 4 budget 12 vertices 1018 mode free first 3 9 0 found 0 states 3762 wires 1107 seconds 0.0226598
+1018 (3, 9, 1) 4 budget 12 vertices 1018 mode free first 3 9 1 found 0 states 13275 wires 4274 seconds 0.0590858
+1018 (3, 9, 2) 4 budget 12 vertices 1018 mode free first 3 9 2 found 0 states 4878 wires 1887 seconds 0.0289918
+1018 (3, 9, 3) 4 budget 12 vertices 1018 mode free first 3 9 3 found 1 states 2726 wires 1041 seconds 0.0161543
+1018 (6, 8, 0) 2 budget 12 vertices 1018 mode free first 6 8 0 found 0 states 12988 wires 2265 seconds 0.0604862
+1018 (6, 8, 1) 2 budget 12 vertices 1018 mode free first 6 8 1 found 0 states 18258 wires 5006 seconds 0.0803856
+1018 (6, 8, 2) 2 budget 12 vertices 1018 mode free first 6 8 2 found 0 states 13713 wires 4944 seconds 0.0644918
+1018 (6, 8, 3) 2 budget 12 vertices 1018 mode free first 6 8 3 found 0 states 48985 wires 10251 seconds 0.187969
+1018 (8, 9, 0) 1 budget 12 vertices 1018 mode free first 8 9 0 found 0 states 3946 wires 1342 seconds 0.0264136
+1018 (8, 9, 1) 2 budget 12 vertices 1018 mode free first 8 9 1 found 0 states 23961 wires 4756 seconds 0.101038
+1018 (8, 9, 3) 1 budget 12 vertices 1018 mode free first 8 9 3 found 1 states 25578 wires 5560 seconds 0.0940571
+profile 127 9 84
+profile 191 11 84
+profile 251 8 84
+profile 253 8 60
+budget 15 vertices 1022 mode free first 1 2 0 found 0 states 1 wires 13 seconds 0.013001
+budget 15 vertices 1022 mode free first 1 2 1 found 0 states 82618 wires 12585 seconds 0.572677
+budget 15 vertices 1022 mode free first 1 2 2 found 0 states 1 wires 13 seconds 0.0136208
+budget 15 vertices 1022 mode free first 1 2 3 found 0 states 99927 wires 11292 seconds 0.636514
+budget 15 vertices 1022 mode free first 1 3 0 found 0 states 1 wires 13 seconds 0.0130525
+budget 15 vertices 1022 mode free first 1 3 1 found 0 states 55757 wires 9372 seconds 0.413934
+budget 15 vertices 1022 mode free first 1 3 2 found 0 states 1 wires 13 seconds 0.013035
+budget 15 vertices 1022 mode free first 1 3 3 found 0 states 5166109 wires 46560 seconds 26.6502
+budget 15 vertices 1022 mode free first 1 4 0 found 0 states 1 wires 13 seconds 0.013035
+budget 15 vertices 1022 mode free first 1 4 1 found 0 states 1 wires 13 seconds 0.013349
+budget 15 vertices 1022 mode free first 1 4 3 found 0 states 274075 wires 26386 seconds 1.6674
+budget 15 vertices 1022 mode free first 2 3 0 found 0 states 30689 wires 2887 seconds 0.268896
+budget 15 vertices 1022 mode free first 2 3 1 found 0 states 57884 wires 8765 seconds 0.420533
+budget 15 vertices 1022 mode free first 2 3 3 found 0 states 225269 wires 16326 seconds 1.43183
+budget 15 vertices 1022 mode free first 2 6 0 found 0 states 25524 wires 3664 seconds 0.213633
+budget 15 vertices 1022 mode free first 2 6 1 found 0 states 72880 wires 9645 seconds 0.506893
+budget 15 vertices 1022 mode free first 2 6 3 found 0 states 4751599 wires 31591 seconds 24.8614
+budget 15 vertices 1022 mode free first 2 8 0 found 0 states 10277 wires 1289 seconds 0.113979
+budget 15 vertices 1022 mode free first 2 8 1 found 0 states 82955 wires 11847 seconds 0.630917
+budget 15 vertices 1022 mode free first 2 8 3 found 0 states 5262138 wires 38120 seconds 29.4053
+Deleting a Petersen vertex gives exact binary gate complexity 16, even with free negation.
+5 (0, 2, 9, 10, 13) 6 budget 9 vertices 1023 omitted 9733 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 1 wires 12 seconds 0.0340879
+4 (0, 2, 9, 10) 30 budget 11 vertices 1023 omitted 1541 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 1 wires 13 seconds 0.034036
+4 (0, 2, 9, 14) 60 budget 11 vertices 1023 omitted 16901 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 2 wires 14 seconds 0.0341327
+3 (0, 2, 9) 60 budget 13 vertices 1023 omitted 517 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 84 wires 41 seconds 0.0318635
+3 (0, 2, 11) 60 budget 13 vertices 1023 omitted 2053 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 57 wires 31 seconds 0.0348958
+3 (0, 2, 14) 20 budget 13 vertices 1023 omitted 16389 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 118 wires 54 seconds 0.0352766
+3 (0, 8, 11) 5 budget 13 vertices 1023 omitted 2305 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 43 wires 24 seconds 0.0360604
+2 (0, 2) 60 budget 15 vertices 1023 omitted 5 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 21535 wires 1416 seconds 0.152708
+2 (0, 8) 15 budget 15 vertices 1023 omitted 257 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 13291 wires 780 seconds 0.112352
+1 (0,) 15 budget 17 vertices 1023 omitted 1 raw_or_only 1 mode partial first -1 -1 -1 found 0 states 15928386 wires 11704 seconds 89.5834
+budget 16 vertices 1022 mode monotone first 1 2 3 found 0 states 147997 wires 3060 seconds 1.17799
+budget 16 vertices 1022 mode monotone first 1 3 3 found 1 states 294048 wires 6350 seconds 1.81866
+budget 16 vertices 1022 mode monotone first 1 4 3 found 0 states 199550 wires 4525 seconds 1.51678
+budget 16 vertices 1022 mode monotone first 2 3 3 found 0 states 607071 wires 5416 seconds 3.80492
+budget 16 vertices 1022 mode monotone first 2 6 3 found 1 states 829600 wires 7917 seconds 4.44635
+budget 16 vertices 1022 mode monotone first 2 8 3 found 1 states 1480567 wires 10194 seconds 7.60025
+1020 ((2, 4, 3), (2, 5, 3)) 4 star cover
+1020 ((2, 4, 3), (2, 8, 3)) 8 budget 13 vertices 1020 mode monotone first 2 4 3 found 0 states 2 wires 14 seconds 0.00793321
+1020 ((2, 4, 3), (2, 9, 3)) 8 star cover
+1020 ((2, 4, 3), (3, 5, 3)) 8 star cover
+1020 ((2, 4, 3), (5, 6, 3)) 2 star cover
+1020 ((2, 4, 3), (5, 9, 3)) 8 star cover
+1020 ((2, 8, 3), (2, 9, 3)) 4 star cover
+1020 ((2, 8, 3), (3, 5, 3)) 4 budget 13 vertices 1020 mode monotone first 2 8 3 found 0 states 500 wires 144 seconds 0.0108946
+1020 ((2, 8, 3), (3, 6, 3)) 4 budget 13 vertices 1020 mode monotone first 2 8 3 found 0 states 360 wires 83 seconds 0.00650467
+1020 ((2, 8, 3), (4, 7, 3)) 8 star cover
+1020 ((2, 8, 3), (4, 8, 3)) 4 budget 13 vertices 1020 mode monotone first 2 8 3 found 0 states 321 wires 123 seconds 0.00627579
+1020 ((2, 8, 3), (6, 7, 3)) 4 star cover
+1018 ((1, 8, 3), (1, 9, 3)) 1 budget 12 vertices 1018 mode monotone first 1 8 3 found 0 states 2 wires 13 seconds 0.032093
+1018 ((1, 8, 3), (3, 5, 3)) 2 star cover
+1018 ((1, 8, 3), (3, 6, 3)) 4 budget 12 vertices 1018 mode monotone first 1 8 3 found 0 states 84 wires 43 seconds 0.00798617
+1018 ((1, 8, 3), (3, 9, 3)) 4 star cover
+1018 ((1, 8, 3), (4, 6, 3)) 4 star cover
+1018 ((1, 8, 3), (4, 7, 3)) 2 star cover
+1018 ((1, 8, 3), (4, 8, 3)) 4 star cover
+1018 ((1, 8, 3), (8, 9, 3)) 2 budget 12 vertices 1018 mode monotone first 1 8 3 found 0 states 142 wires 64 seconds 0.00604571
+1018 ((3, 5, 3), (3, 6, 3)) 4 budget 12 vertices 1018 mode monotone first 3 5 3 found 0 states 12 wires 22 seconds 0.00537983
+1018 ((3, 5, 3), (3, 9, 3)) 4 star cover
+1018 ((3, 5, 3), (4, 6, 3)) 4 budget 12 vertices 1018 mode monotone first 3 5 3 found 0 states 115 wires 75 seconds 0.00590192
+1018 ((3, 5, 3), (4, 7, 3)) 1 budget 12 vertices 1018 mode monotone first 3 5 3 found 0 states 90 wires 61 seconds 0.00642442
+1018 ((3, 5, 3), (4, 8, 3)) 4 budget 12 vertices 1018 mode monotone first 3 5 3 found 0 states 10 wires 20 seconds 0.00537292
+1018 ((3, 5, 3), (8, 9, 3)) 2 star cover
+1018 ((3, 6, 3), (3, 9, 3)) 4 star cover
+1018 ((3, 6, 3), (4, 6, 3)) 2 budget 12 vertices 1018 mode monotone first 3 6 3 found 0 states 141 wires 76 seconds 0.00932317
+1018 ((3, 6, 3), (4, 8, 3)) 4 budget 12 vertices 1018 mode monotone first 3 6 3 found 0 states 14 wires 24 seconds 0.00537563
+1018 ((3, 6, 3), (5, 6, 3)) 2 budget 12 vertices 1018 mode monotone first 3 6 3 found 0 states 2 wires 13 seconds 0.00529842
+1018 ((3, 6, 3), (5, 9, 3)) 4 star cover
+1018 ((3, 6, 3), (6, 7, 3)) 2 budget 12 vertices 1018 mode monotone first 3 6 3 found 0 states 60 wires 51 seconds 0.00549179
+1018 ((3, 6, 3), (7, 8, 3)) 4 budget 12 vertices 1018 mode monotone first 3 6 3 found 0 states 138 wires 64 seconds 0.00668954
+1018 ((3, 6, 3), (8, 9, 3)) 4 budget 12 vertices 1018 mode monotone first 3 6 3 found 0 states 159 wires 61 seconds 0.00954958
+1018 ((3, 9, 3), (4, 8, 3)) 2 budget 12 vertices 1018 mode monotone first 3 9 3 found 0 states 10 wires 18 seconds 0.00535592
+1018 ((3, 9, 3), (5, 9, 3)) 2 star cover
+1018 ((3, 9, 3), (7, 8, 3)) 2 budget 12 vertices 1018 mode monotone first 3 9 3 found 0 states 196 wires 94 seconds 0.00607529
+1018 ((3, 9, 3), (8, 9, 3)) 4 star cover
+1022 ((1, 3, 3), (1, 7, 3)) 6 budget 16 vertices 1022 mode monotone first 1 3 3 found 0 states 10750 wires 1132 seconds 0.100991
+1022 ((1, 3, 3), (1, 8, 3)) 6 star cover
+1022 ((1, 3, 3), (1, 9, 3)) 6 star cover
+1022 ((1, 3, 3), (2, 4, 3)) 6 budget 16 vertices 1022 mode monotone first 1 3 3 found 0 states 121100 wires 4827 seconds 0.786131
+1022 ((1, 3, 3), (2, 5, 3)) 12 star cover
+1022 ((1, 3, 3), (2, 6, 3)) 12 budget 16 vertices 1022 mode monotone first 1 3 3 found 0 states 195572 wires 6153 seconds 1.28657
+1022 ((1, 3, 3), (2, 8, 3)) 12 budget 16 vertices 1022 mode monotone first 1 3 3 found 0 states 353673 wires 7179 seconds 2.04996
+1022 ((1, 3, 3), (2, 9, 3)) 12 star cover
+1022 ((1, 3, 3), (3, 5, 3)) 6 star cover
+1022 ((1, 3, 3), (3, 6, 3)) 12 star cover
+1022 ((1, 3, 3), (3, 7, 3)) 12 budget 16 vertices 1022 mode monotone first 1 3 3 found 0 states 216730 wires 5936 seconds 1.25613
+1022 ((1, 3, 3), (3, 9, 3)) 12 star cover
+1022 ((1, 3, 3), (4, 6, 3)) 6 star cover
+1022 ((1, 3, 3), (4, 7, 3)) 12 star cover
+1022 ((1, 3, 3), (5, 9, 3)) 6 star cover
+1022 ((1, 3, 3), (6, 7, 3)) 12 star cover
+1022 ((1, 3, 3), (7, 8, 3)) 12 star cover
+1022 ((1, 3, 3), (8, 9, 3)) 12 star cover
+1022 ((2, 6, 3), (2, 8, 3)) 12 star cover
+1022 ((2, 6, 3), (3, 7, 3)) 6 budget 16 vertices 1022 mode monotone first 2 6 3 found 0 states 776051 wires 6064 seconds 4.05156
+1022 ((2, 6, 3), (3, 9, 3)) 3 budget 16 vertices 1022 mode monotone first 2 6 3 found 1 states 136108 wires 4096 seconds 0.790637
+1022 ((2, 8, 3), (2, 9, 3)) 6 star cover
+1022 ((2, 8, 3), (3, 6, 3)) 6 budget 16 vertices 1022 mode monotone first 2 8 3 found 0 states 701850 wires 6584 seconds 3.77336
+1022 ((2, 8, 3), (6, 7, 3)) 3 star cover
+START solo cuts raised 10 pairs in orbit 1
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 353418 wires 12311 seconds 2.35543
+START 1-3 cuts raised 37 pairs in orbit 60
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 1886322 wires 10075 seconds 18.5033
+START 0-6 cuts raised 34 pairs in orbit 30
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 1985439 wires 8405 seconds 19.9906
+START 1-8 cuts raised 22 pairs in orbit 60
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 10637237 wires 12069 seconds 83.1428
+START 3-6 cuts raised 20 pairs in orbit 120
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 13306545 wires 12136 seconds 97.5841
+START 0-8 cuts raised 20 pairs in orbit 60
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 8405196 wires 13410 seconds 57.5517
+START 8-9 cuts raised 19 pairs in orbit 15
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 17034101 wires 12138 seconds 102.447
+START 3-5 cuts raised 19 pairs in orbit 30
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 33162977 wires 14171 seconds 206.221
+START 0-3 cuts raised 19 pairs in orbit 60
+budget 19 vertices 1023 omitted 0 raw_or_only 1 mode partial first 0 2 3 found 0 states 31273951 wires 14893 seconds 197.863
+Excluded monotone Petersen circuits of size at most 19.
